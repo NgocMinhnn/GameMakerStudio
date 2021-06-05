@@ -175,6 +175,7 @@ y+= moveY;
 if (pressA+pressD!=0){
     image_xscale = sign(pressD-pressA);
     //1: neu bieu thuc ben trong sign &gt;0 &lt;=&gt; pressD &gt; pressA =&gt; di chuyen sang  phai
+    // hello xin chao cac ban, test commit github
     
 }
 </string>
